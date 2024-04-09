@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :)
+
+I am currently rediscovering the world of programming after a period of abstinence. (April 2024)
 
 <!--
 **Delbonum/Delbonum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
